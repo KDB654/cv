@@ -1,6 +1,34 @@
 * {
     background-color: black;
+    text-align: center;
+    
 }
 h1 {
     color: white;
+    font-size: 80px;
+    font-family: 'Montserrat', sans-serif;
+    font-weight: lighter;
+}
+.emaillogo {
+    height: 35px;
+}
+label {
+    color: white;
+    font-size: 25px;
+    font-family: 'Montserrat', sans-serif;
+}
+.messagebox {
+    color: white;
+    border-color: white;
+    font-family: 'Montserrat', sans-serif;
+}
+.emailbox {
+    color: white;
+    border-color: white;
+    font-family: 'Montserrat', sans-serif;
+}
+.namebox {
+    color: white;
+    border-color: white;
+    font-family: 'Montserrat', sans-serif;
 }
