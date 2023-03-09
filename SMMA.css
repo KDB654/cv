@@ -4,7 +4,7 @@
 }
 .WebContainer{
     width:100%;
-    min-width:1000px;
+    min-width:100%;
     height:auto;
 }
 h1 {
