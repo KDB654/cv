@@ -1,11 +1,8 @@
 * {
     background-color: black;
    text-align: center;
-}
-.WebContainer{
-   display: grid;
-    position: relative;
-    grid-area: 1 / 2 / 2 / 3;
+     width: auto;
+    height: auto;
 }
 h1 {
   padding-top: 1em;
