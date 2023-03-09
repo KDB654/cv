@@ -40,3 +40,4 @@ label {
     font-family: 'Montserrat', sans-serif;
     text-align: center;
 }
+const handleClick = (e) => { e.preventDefault(); window.open}
