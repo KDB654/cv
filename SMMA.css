@@ -6,7 +6,7 @@
 h1 {
   padding-top: 1em;
     color: white;
-    font-size: 4em;
+    font-size: 3em;
     font-family: 'Montserrat', sans-serif;
     font-weight: 400;
     text-align: center;
@@ -17,7 +17,7 @@ h1 {
 }
 label {
     color: white;
-    font-size: 1em;
+    font-size: 0.8em;
     font-family: 'Montserrat', sans-serif;
     text-align: center;
 }
