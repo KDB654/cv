@@ -3,6 +3,7 @@
     text-align: center;
     width: auto;
     height: auto;
+    padding-top: 4em;
 }
 h1 {
     padding-top: 1em;
@@ -13,31 +14,6 @@ h1 {
     text-align: center;
 }
 .emaillogo {
-    height: 2em;
+    height: 5em;
     text-align: center;
 }
-label {
-    color: white;
-    font-size: 0.8em;
-    font-family: 'Montserrat', sans-serif;
-    text-align: center;
-}
-.messagebox {
-    color: white;
-    border-color: white;
-    font-family: 'Montserrat', sans-serif;
-    text-align: center;
-}
-.emailbox {
-    color: white;
-    border-color: white;
-    font-family: 'Montserrat', sans-serif;
-    text-align: center;
-}
-.namebox {
-    color: white;
-    border-color: white;
-    font-family: 'Montserrat', sans-serif;
-    text-align: center;
-}
-const handleClick = (e) => { e.preventDefault(); window.open}
